@@ -12,4 +12,7 @@ Changes:
 -Slightly modified Tutorial Level 1.
 -GUI and Dialog box refreshes.
 -Increased the chances of finishing Emerald Evergreens Secret 2.
--You computer will freeze for a short time at the start, because it's loading all the 3D objects.
+-Your computer will freeze for a short time at the start, because it's loading all the 3D objects.
+-Joysticks will not only rumble on both sides, it will also rumble on one side based on the direction of sound received by the player. 
+-Poison Mushroom is no longer spawned from the qblock at the end of Tutorial Level 4.
+-UI Animation Tweaks.
