@@ -1,0 +1,15 @@
+Version 2024.01(Cumulative Revision 1):
+
+New Additions:
+-Super Mario Bros. Friends comes with a brand new launcher eXclusive for MFGG mainsite.
+-Added Hotels(if you really wanna take rest...).The mechanic is pretty simple. Enter a hotel, then book a room, and wait for 5 minutes. If you do wanna speed up the process, press your fire button(this will charge you extra 500 coins).
+-Added level ambience sounds. It will take the game to the next dimension...You can set the volume of the ambience in settings under the title screen, but the optiom isn't available in the quick settings under the world map. 
+
+Changes:
+-Fixed invisible player when collecting papers(This was shown during ReynLynxPSI's stream during NCFC2023). 
+-Major rework of audio system. Now, some of the sounds can utilize the stereo sound source and can play positionally in 3D.
+-Removed 3x and 4x window resolutions due to the frame drops. This is to optimize for lower end PCs.
+-Slightly modified Tutorial Level 1.
+-GUI and Dialog box refreshes.
+-Increased the chances of finishing Emerald Evergreens Secret 2.
+-You computer will freeze for a short time at the start, because it's loading all the 3D objects.
