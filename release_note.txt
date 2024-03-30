@@ -1,18 +1,16 @@
-Version 2024.01(Cumulative Revision 1):
+Version 2024.03.10(March 2024 Issue 10):
+Note: This is a minor update and no new features added except the version numbering. This was supposed to be rolled out in the Early March. But the project format of the latest version of GMS2 had nearly killed my project. So, I have to switch back to the previous version of GMS2.
 
 New Additions:
--Super Mario Bros. Friends comes with a brand new launcher eXclusive for MFGG mainsite.
--Added Hotels(if you really wanna take rest...).The mechanic is pretty simple. Enter a hotel, then book a room, and wait for 5 minutes. If you do wanna speed up the process, press your fire button(this will charge you extra 500 coins).
--Added level ambience sounds. It will take the game to the next dimension...You can set the volume of the ambience in settings under the title screen, but the optiom isn't available in the quick settings under the world map. 
+-Brand new version numbering: Now, SMBF introduces a new type of version numbering which is divided into 3 sections from left to right. The first section depicts the year, the second depicts the month, but the last section will depict the issue number counting from the first update. This is to make updates easier especially if an urgent update has been rolled out after the major update to avoid confusion.
+
+For example:
+
+	2024. 03.  10
+	 |    |	   |
+    Year Month Issue no.
+
 
 Changes:
--Fixed invisible player when collecting papers(This was shown during ReynLynxPSI's stream during NCFC2023). 
--Major rework of audio system. Now, some of the sounds can utilize the stereo sound source and can play positionally in 3D.
--Removed 3x and 4x window resolutions due to the frame drops. This is to optimize for lower end PCs.
--Slightly modified Tutorial Level 1.
--GUI and Dialog box refreshes.
--Increased the chances of finishing Emerald Evergreens Secret 2.
--Your computer will freeze for a short time at the start, because it's loading all the 3D objects.
--Joysticks will not only rumble on both sides, it will also rumble on one side based on the direction of sound received by the player. 
--Poison Mushroom is no longer spawned from the qblock at the end of Tutorial Level 4.
--UI Animation Tweaks.
+-Updated disclaimer text.
+-Smoother fireball animations.
