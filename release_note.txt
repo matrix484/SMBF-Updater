@@ -1,16 +1,14 @@
-Version 2024.03.10(March 2024 Issue 10):
-Note: This is a minor update and no new features added except the version numbering. This was supposed to be rolled out in the Early March. But the project format of the latest version of GMS2 had nearly killed my project. So, I have to switch back to the previous version of GMS2.
-
-New Additions:
--Brand new version numbering: Now, SMBF introduces a new type of version numbering which is divided into 3 sections from left to right. The first section depicts the year, the second depicts the month, but the last section will depict the issue number counting from the first update. This is to make updates easier especially if an urgent update has been rolled out after the major update to avoid confusion.
-
-For example:
-
-	2024. 03.  10
-	 |    |	   |
-    Year Month Issue no.
-
+Version 2025.05.12(May 2025 Issue 12):
 
 Changes:
--Updated disclaimer text.
--Smoother fireball animations.
+-Some levels with a dialog box at the start will now pop up only once.
+-This will be the last and final update. Hereafter, I will not update this game anymore.
+
+Version 2024.07.11(July 2024 Issue 11) Not sure did I release:
+
+New Additions:
+- If the player has the assistant (in Emerald Evergreens 5), if he/she is far away from the other player, then it will display the direction and the distance of the other player.
+
+Changes:
+-Camera can now move freely while the player is swimming.
+-Reduced transparency of the autumn tree in Topaz terrains Demo.
